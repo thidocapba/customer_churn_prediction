@@ -1,1 +1,1 @@
-# customer_churn_prediction
+# Demo of Customer Churn Prediction using XGBoost
